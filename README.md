@@ -4,7 +4,7 @@
 
 Digital Engineering Manager with a strong foundation in the construction and infrastructure sectors, and deep expertise in data-driven technologies, BIM, and digital transformation. Currently leading Technology initiatives as Head of Digital Engineering Solutions for an Engineering Consultancy based in Zurich (CH).
 
-My career spans from hands-on engineering and BIM coordination to strategic leadership, with a focus on optimizing operational performance, enhancing data governance, and implementing enterprise-grade technology solutions. I hold an Executive MBA, an Associate CTO degree from MIT, and I am currently completing a Master’s in Machine Learning and Applied AI at Caltech.
+My career spans from hands-on engineering, Data Management lead and BIM Management to strategic leadership, with a focus on optimizing operational performance, enhancing data governance, and implementing enterprise-grade technology solutions. I hold an Executive MBA, an Associate CTO degree from MIT, and I just completed a Master’s in Machine Learning and Applied AI at Caltech.
 
 ## Currently Exploring in *Tech World*
 
